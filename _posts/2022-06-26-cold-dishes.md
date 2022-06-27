@@ -10,7 +10,7 @@ hidden: true
 
 - Toro Tartare with Caviar[[soy, gluten, garlic, onions::srs]]
 - Salmon or Yellowtail Tartare[[soy, gluten, garlic, onions::srs]]
-- Yellowtail Jalapeno[[soy, gluten, garlic::srs]]
+- [Yellowtail Jalapeno](/yellowtail-sashimi)
 - Fluke Sashimi Dry Miso[[soy, garlic, onion::srs]]
 - New Style Sashimi[[soy, gluten, garlic, oniom, sesame::srs]]
 - Tiradito[[soy, gluten::srs]]
